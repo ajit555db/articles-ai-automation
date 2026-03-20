@@ -264,15 +264,11 @@ The economics are self-funding if the first use case is chosen well. Start there
 
 ## Where to Go from Here
 
-For the strategic framework on how to sequence from pilot to scale, select the right first use cases, and build internal governance: see [`openclaw-strategy-cxos.md`](openclaw-strategy-cxos.md).
-
-For a detailed view of which enterprise systems can be integrated and what specific use cases each enables: see [`openclaw-enterprise-integrations.md`](openclaw-enterprise-integrations.md).
+None
 
 ---
 
 ## References
 
 **Related articles**
-- [`openclaw-strategy-cxos.md`](openclaw-strategy-cxos.md) — strategic deployment framework: sequencing, governance, and scaling
-- [`openclaw-enterprise-integrations.md`](openclaw-enterprise-integrations.md) — enterprise system integrations and use cases per system
-- [`strategy-multitenant-platform.md`](strategy-multitenant-platform.md) — the technical platform architecture underpinning this strategy
+- None
