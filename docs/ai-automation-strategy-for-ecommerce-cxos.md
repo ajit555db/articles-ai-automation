@@ -261,14 +261,3 @@ The economics are self-funding if the first use case is chosen well. Start there
 | Who owns AI governance in this organization? | Governance ownership must be established before deployment, not after |
 
 ---
-
-## Where to Go from Here
-
-None
-
----
-
-## References
-
-**Related articles**
-- None
